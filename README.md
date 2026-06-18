@@ -43,12 +43,12 @@ Mỗi học viên có 1 kho công khai riêng.
 ### README mẫu ở repo nộp bài
 
 ```markdown
-# Day16-A20-XXXXX-HoVaTen
+# Day16-2A202600915-TranNguyenAnhThu
 
 ## Thông tin học viên
 
-- Mã học viên: A20-XXXXX
-- Họ tên: Nguyễn Văn A
+- Mã học viên: 2A202600915
+- Họ tên: Tran Nguyen Anh Thu
 - Track: AI Product Strategy
 
 ## File nộp
