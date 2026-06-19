@@ -9,7 +9,7 @@ companion-reference: Strategyn_JTBD_Playbook.pdf (giảng viên gửi kèm)
 
 # Lab 2 — JTBD Project Analysis / Dùng JTBD để soi lại dự án nhóm
 
-**Tên dự án / sản phẩm:** _______________  
+**Tên dự án / sản phẩm:** PaperPulse — AI hỗ trợ tổng quan tài liệu nghiên cứu  
 
 > Đây là **file duy nhất** của Lab 2.  
 > File này đồng thời đóng vai trò:
@@ -92,27 +92,18 @@ Phần lớn dự án nhóm viết quá rộng ở bước này, rồi sau đó 
 
 ### Khoanh đúng 1 lát cắt theo 4 điểm
 
-- [ ] **1 nhóm người dùng chính**
-- [ ] **1 hoàn cảnh / tình huống rõ**
-- [ ] **1 job cốt lõi**
-- [ ] **1 workflow đủ cụ thể để vẽ ra được**
+- [x] **1 nhóm người dùng chính**
+- [x] **1 hoàn cảnh / tình huống rõ**
+- [x] **1 job cốt lõi**
+- [x] **1 workflow đủ cụ thể để vẽ ra được**
 
 ### Điền nhanh trước khi làm
 
-- **Dự án của nhóm tôi là:** ___________________________________
-- **Lát cắt tôi chọn để phân tích hôm nay là:** ___________________________________
+- **Dự án của nhóm tôi là:** PaperPulse, công cụ AI giúp tổng quan tài liệu nghiên cứu, hỗ trợ upload PDF và tìm kiếm paper liên quan
+- **Lát cắt tôi chọn để phân tích hôm nay là:** Nghiên cứu sinh đang cần nắm bắt nhanh landscape một chủ đề mới để bắt đầu viết literature review
 - **Vì sao tôi chọn lát cắt này:**  
-  > ___________________________________
+  > Đây là nhóm có pain rõ nhất và xảy ra thường xuyên nhất, mỗi nghiên cứu sinh đều phải đọc hàng chục đến hàng trăm paper trong giai đoạn đầu, trong khi chưa có nền tảng đủ để biết paper nào quan trọng. Đây cũng là lúc AI có thể tạo giá trị thật sự thay vì chỉ là "đọc dùm".
 
-### Viết quá rộng vs viết sắc hơn
-
-| Viết quá rộng | Viết sắc hơn |
-|---|---|
-| Giúp SME dùng AI để marketing | Giúp chủ shop online phản hồi câu hỏi trước mua hàng nhanh và nhất quán trong giờ cao điểm |
-| Dùng AI để làm slide | Tạo bản nháp deck nội bộ mạch lạc cho buổi họp gấp trong thời gian rất ngắn |
-| AI cho tuyển dụng | Giúp recruiter sàng lọc CV đầu vào nhanh hơn trước vòng gọi sơ bộ |
-
-> Nếu bạn không mô tả được **một hoàn cảnh cụ thể**, khả năng cao bạn đang viết quá rộng.
 
 ---
 
@@ -121,13 +112,16 @@ Phần lớn dự án nhóm viết quá rộng ở bước này, rồi sau đó 
 ### Tóm tắt dự án trong 3 dòng
 
 1. **Nhóm tôi đang nghĩ mình đang giải quyết vấn đề gì?**  
-   > ___________________________________
+   > Sinh viên và nghiên cứu sinh mất quá nhiều thời gian đọc và tổng hợp tài liệu nghiên cứu — PaperPulse dùng AI để tóm tắt, trả lời câu hỏi từ PDF, và gợi ý paper liên quan.
+
 
 2. **Người dùng chính hiện nhóm đang nhắm tới là ai?**  
-   > ___________________________________
+   > Sinh viên đại học / học viên cao học đang làm thesis hoặc NCKH, đặc biệt ở giai đoạn đầu khi cần nắm bắt một chủ đề nghiên cứu mới.
+
 
 3. **Hiện tại người dùng đó đang giải quyết vấn đề này bằng cách nào?**  
-   > ___________________________________
+   > Google Scholar + đọc abstract thủ công + ChatGPT/Claude để hỏi + Zotero để quản lý reference + tự ghi note ra Google Docs. Cobble together từ 4-5 tool khác nhau.
+
 
 ---
 
@@ -139,21 +133,25 @@ Phần lớn dự án nhóm viết quá rộng ở bước này, rồi sau đó 
 ### Trả lời 4 câu ngắn
 
 1. **Ai đang gặp vấn đề này?**  
-   > ___________________________________
+   > Sinh viên năm 3-4 đại học và học viên cao học đang bắt đầu hoặc đang trong quá trình làm thesis/NCKH — đặc biệt nhóm chưa có kinh nghiệm đọc paper chuyên sâu.
+
 
 2. **Vấn đề xuất hiện trong hoàn cảnh nào?**  
-   > ___________________________________
+   > Ngay trước khi bắt đầu viết literature review cho thesis/NCKH — khi chủ đề còn mới, chưa biết nên tìm paper theo hướng nào, chưa biết paper nào là foundational, paper nào là mới nhất, và cần nắm nhanh landscape chung trong vài ngày. Khi đó, họ phải đọc 20-50 paper để hiểu landscape, nhưng không biết bắt đầu từ đâu, paper nào quan trọng, và khoảng trống nghiên cứu nằm ở đâu.
+
 
 3. **Hiện tại họ đang dùng giải pháp thay thế nào?**  
-   > ___________________________________
+   > Dùng Google Scholar để tìm, đọc abstract, đôi khi dùng ChatGPT/Claude hỏi tóm tắt, quản lý reference bằng Zotero, note ra Google Docs. Việc này tốn rất nhiều thời gian và không có tính kế thừa.
+
 
 4. **Vì sao đây là thời điểm đáng giải?**  
-   > ___________________________________
+   > Hiện nay, các mô hình ngôn ngữ lớn (LLM) đã đủ mạnh để tóm tắt văn bản và trả lời câu hỏi từ tài liệu PDF với độ chính xác cao. Điều này làm giảm đáng kể rào cản công nghệ cho việc giải quyết bài toán này bằng AI. Đồng thời, số lượng paper khoa học được xuất bản đang tăng nhanh chóng, khiến việc đọc thủ công ngày càng không khả thi.
+
 
 ### Tóm tắt market context trong 3-4 dòng
 
-> _______________________________________________  
-> _______________________________________________
+> Sinh viên thesis đang phải tự kết hợp 4-5 tool rời rạc để làm một việc duy nhất: hiểu đủ một chủ đề nghiên cứu để bắt đầu viết. Không tool nào hiện tại giúp họ đi từ "chủ đề mới" đến "có đủ bức tranh tổng quan để viết" trong một workflow liền mạch. AI đã đủ capable để thay đổi điều này — câu hỏi là ai sẽ làm đúng workflow đó.
+
 
 ---
 
@@ -174,9 +172,11 @@ Phần lớn dự án nhóm viết quá rộng ở bước này, rồi sau đó 
 
 ### Điền
 
-- **Job executor của dự án này là:** ___________________________________
+- **Job executor của dự án này là:** 
+  > Sinh viên / học viên đang tự thực hiện literature review cho thesis hoặc bài nghiên cứu
 - **Vì sao tôi tin đây là người trực tiếp "thuê" giải pháp để làm job:**  
-  > ___________________________________
+  > Họ là người trực tiếp dành hàng giờ để đọc paper và loay hoay với các tool hiện tại. Họ có pain rõ nhất và là người ra quyết định cuối cùng trong việc thử một giải pháp mới cho công việc cá nhân. 
+
 
 ---
 
@@ -200,23 +200,24 @@ Phần lớn dự án nhóm viết quá rộng ở bước này, rồi sau đó 
 
 ### 3 tiêu chí tự kiểm
 
-- [ ] Nếu bỏ tool hiện tại đi, job này vẫn còn tồn tại
-- [ ] Trong câu không có tên sản phẩm, AI, chatbot, app, màn hình
-- [ ] Câu đang mô tả **điều user muốn hoàn thành**, không phải thứ product đang làm
+- [x] Nếu bỏ tool hiện tại đi, job này vẫn còn tồn tại
+- [x] Trong câu không có tên sản phẩm, AI, chatbot, app, màn hình
+- [x] Câu đang mô tả **điều user muốn hoàn thành**, không phải thứ product đang làm
 
 ### Bản nháp 1
 
 **Core JTBD bản nháp:**  
-> _______________________________________________
+> Dùng AI để tóm tắt paper nhanh hơn
 
 ### Gạch bỏ từ solution nếu có
 
-- Các từ solution tôi đang lỡ nhét vào câu: _________________________________
+- Các từ solution tôi đang lỡ nhét vào câu: "AI", "tóm tắt"
 
 ### Bản chốt
 
 **Core JTBD cuối cùng:**  
-> _______________________________________________
+> Nắm bắt đủ landscape của một chủ đề nghiên cứu mới để xác định hướng đi và bắt đầu viết trong thời gian giới hạn
+
 
 ---
 
@@ -239,15 +240,15 @@ When [trigger], I want to [motivation], so I can [outcome].
 
 | # | Trigger / When | Motivation / I want to | Outcome / so I can | Điều story này cho thấy |
 |---|---|---|---|---|
-| JS1 | | | | |
-| JS2 | | | | |
-| JS3 | | | | |
+| JS1 | Khi được giao chủ đề thesis và phải nộp đề cương trong 2 tuần | Tôi muốn hiểu nhanh các hướng nghiên cứu chính và tranh luận hiện tại trong chủ đề này| so I can viết phần background và research gap một cách có căn cứ, không bị giảng viên hỏi ngược | Paper landscape mapping là pain point ở giai đoạn đầu — không phải đọc sâu từng paper |
+| JS2 | Khi đang đọc một paper và gặp khái niệm không quen, cần hiểu context mà không phải thoát ra Google Scholar | Tôi muốn hiểu khái niệm đó trong ngữ cảnh của field này, kèm paper nào đã define nó | so I can tiếp tục đọc mà không mất mạch và không lãng phí 30 phút đi tìm | In-context understanding là nhu cầu micro — AI có thể serve ngay tại điểm đọc |
+| JS3 | Khi đã đọc 15-20 paper và cần viết literature review nhưng không biết tổ chức thế nào | Tôi muốn có dàn ý logic và nắm được các nhánh tranh luận chính, có trích dẫn cụ thể | so I can viết literature review có cấu trúc logic thay vì chỉ liệt kê paper theo thứ tự đọc | Synthesis và structure là pain lớn nhất, đọc xong vẫn không biết nói gì |
 
 ### Tự kiểm nhanh
 
-- [ ] Mỗi story là một **tình huống thật**, không phải slogan chung chung
-- [ ] 3 story không trùng hệt nhau
-- [ ] Sau khi đọc 3 story, tôi hình dung được lúc nào product của mình đáng xuất hiện
+- [x] Mỗi story là một **tình huống thật**, không phải slogan chung chung
+- [x] 3 story không trùng hệt nhau
+- [x] Sau khi đọc 3 story, tôi hình dung được lúc nào product của mình đáng xuất hiện
 
 ---
 
@@ -268,14 +269,18 @@ Qua JTBD lens, đối thủ không chỉ là app cùng ngành.
 
 | Alternative hiện tại | User đang thuê nó để làm gì? | Nó làm tốt gì? | Nó fail ở đâu? | Switching cost hiện tại cao hay thấp? |
 |---|---|---|---|---|
-| Alt 1 | | | | |
-| Alt 2 | | | | |
-| Alt 3 | | | | |
+| Google Scholar + đọc abstract thủ công | Tìm và lọc paper | Free, toàn diện, trusted| Chậm, không tổng hợp được, không biết paper nào thật sự quan trọng| Thấp — habit, không cần cài gì |
+| ChatGPT / Claude | Hỏi về nội dung paper, giải thích khái niệm, tóm tắt đoạn text paste vào| Linh hoạt, trả lời nhanh, giải thích tốt| Không đọc được file PDF dài trực tiếp (bản free), hallucinate citation, không có context về field| Thấp — đã quen dùng |
+| Zotero / Mendeley | Quản lý và lưu trữ reference| Tốt cho citation management| Không giúp đọc hay tổng hợp nội dung| Trung bình — đã có library |
+| Đọc tay + ghi note Google Docs | Tổng hợp và ghi lại hiểu biết| Flexible, tự kiểm soát| Cực kỳ chậm, khó scale khi số paper tăng| Thấp — workflow quen thuộc |
+| Perplexity / Consensus | Tìm kiếm câu trả lời có nguồn từ paper| Nhanh, có citation| Không đọc sâu, không upload file riêng, coverage không toàn diện| Thấp |
 
 ### Kết luận nhanh
 
 **Nếu project của tôi biến mất hôm nay, user nhiều khả năng sẽ quay về:**  
-> _______________________________________________
+> Combo ChatGPT + Google Scholar + Google Docs vì switching cost thấp và đây là workflow họ đã quen.
+
+
 
 ---
 
@@ -310,23 +315,24 @@ Mục tiêu là nhìn ra:
 
 | Step | Trong workflow này user đang cố làm gì? | Hôm nay họ đang dùng gì? | Friction / pain hiện tại | Mức đau |
 |---|---|---|---|---|
-| Define | | | | Low / Med / High |
-| Locate | | | | Low / Med / High |
-| Prepare | | | | Low / Med / High |
-| Confirm | | | | Low / Med / High |
-| Execute | | | | Low / Med / High |
-| Monitor | | | | Low / Med / High |
-| Modify | | | | Low / Med / High |
-| Conclude | | | | Low / Med / High |
+| Define | Xác định scope chủ đề: cần đọc loại paper nào, từ khoá nào, field nào | Hỏi giảng viên + Google + ChatGPT | Không có framework rõ ràng để biết mình đang nhìn đúng góc chưa | High |
+| Locate | Tìm paper liên quan đủ để cover landscape | Google Scholar, Semantic Scholar, arXiv | Quá nhiều kết quả, không biết paper nào foundational vs. peripheral, mất 1-2 tiếng chỉ để lọc | High |
+| Prepare | Lọc và ưu tiên paper nào đọc trước | Đọc abstract thủ công, hỏi ChatGPT | Tốn thời gian, thiếu context để đánh giá đúng độ quan trọng | Medium |
+| Confirm | Xác nhận mình đã có đủ paper để viết literature review chưa | Tự đánh giá hoặc hỏi giảng viên | Không có cách kiểm tra "đủ chưa" — thường chỉ biết khi bị giảng viên hỏi ngược | High |
+| Execute | Đọc và hiểu nội dung từng paper | Đọc tay + highlight + ghi note | Chậm, dễ mất mạch khi gặp khái niệm lạ, không có ngữ cảnh so sánh | Medium |
+| Monitor | Theo dõi mình đã cover được những cluster nào, còn thiếu gì | Google Docs / Zotero tags | Rất khó hình dung "bức tranh tổng thể" khi đang đọc từng paper riêng lẻ | High |
+| Modify | Điều chỉnh hướng đọc khi phát hiện field rộng hơn dự kiến | Hỏi giảng viên, tìm thêm | Mất nhiều thời gian backtrack, đôi khi phải đọc lại từ đầu | Medium |
+| Conclude | Tổng hợp thành literature review có cấu trúc | Tự viết từ note | Không biết tổ chức thế nào, hay bị liệt kê thay vì synthesize | High |
 
 ### Chốt 2 bước đau nhất
 
-**Bước đau nhất #1:** _________________________________  
-**Bước đau nhất #2:** _________________________________
+**Bước đau nhất #1:** Locate — tìm đúng paper trong biển kết quả  
+**Bước đau nhất #2:** Conclude — tổng hợp thành literature review có cấu trúc  
 
 **Vì sao đây là nơi đáng chú ý nhất:**  
-> _______________________________________________  
-> _______________________________________________
+> Với Locate: với số lượng paper khổng lồ, việc tìm đúng paper phù hợp trong biển kết quả là cực kỳ tốn thời gian, nhiều khi phải mò mẫm qua lại giữa Google Scholar và các nguồn khác.  
+> Với Conclude: Tự viết từ note dẫn đến việc khó hình dung “bức tranh tổng thể”, dẫn đến văn phong liệt kê thay vì tổng hợp, cần nhiều lần chỉnh sửa để có một luồng narrative mạch lạc.
+> AI có lợi thế rõ ở cả hai: xử lý lượng lớn text nhanh (Locate) và tạo structure từ nhiều nguồn (Conclude).
 
 ---
 
@@ -345,16 +351,16 @@ Sau khi map workflow, mới hỏi:
 
 | Step | AI nên giúp bằng cách nào? | Vì sao AI hợp ở đây? | Rủi ro chính nếu dùng AI |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
+| Locate | Ranking paper theo độ relevance với research question của user; gợi ý các "foundational paper" và cluster chủ đề | AI xử lý được lượng lớn metadata + citation graph + abstract để rank tốt hơn con người đọc thủ công | Hallucinate paper không tồn tại; bias theo training data nếu field mới |
+| Conclude | Tạo thematic map từ tập paper user đã đọc; gợi ý cách nhóm paper theo cluster; draft outline literature review | AI có thể cross-reference nhiều paper cùng lúc và identify pattern mà con người khó thấy khi đọc tuần tự | User có thể accept output mà không critical review → literature review sai về mặt học thuật |
 
 ### Kết luận nhanh
 
 **AI leverage point quan trọng nhất của dự án tôi là:**  
-> _______________________________________________
+> Bước Locate — giúp sinh viên đi từ "chủ đề mới" đến "có danh sách paper có cấu trúc theo cluster" trong vài phút thay vì vài tiếng.
 
 **Vì sao không phải ở bước khác:**  
-> _______________________________________________
+> Execute (đọc từng paper) vẫn cần human review đọc để hiểu sâu — AI tóm tắt có thể thiếu nuance quan trọng. Define và Confirm cần input từ giảng viên hướng dẫn, không thể AI quyết thay. Locate là bước thuần thông tin — AI có lợi thế rõ nhất ở đây mà rủi ro học thuật thấp hơn.
 
 ---
 
@@ -373,13 +379,18 @@ vì [giá trị rõ nhất].
 
 ### Bản hypothesis của tôi
 
-> _______________________________________________  
-> _______________________________________________
+> Nếu chúng ta giúp sinh viên thesis làm nắm bắt landscape của chủ đề mới tốt hơn ở bước Locate và Conclude,
+
+bằng cách AI ranking paper theo research question + tạo thematic cluster map từ tập paper đã upload,
+
+thì họ sẽ chuyển từ combo Google Scholar + ChatGPT + Google Docs rời rạc sang PaperPulse,
+
+vì tiết kiệm được 3-5 tiếng đọc thủ công trong giai đoạn đầu thesis và có structure rõ hơn để bắt đầu viết.  
 
 ### Tín hiệu sớm nếu hypothesis này đúng
 
-1. _______________________________________________
-2. _______________________________________________
+1. User dùng PaperPulse ngay ở đầu thesis (không phải sau khi đã đọc xong) — tức là nó được dùng như starting point, không phải finishing tool
+2. User giảm số lần hỏi giảng viên "em nên đọc thêm paper nào?" sau khi dùng PaperPulse
 
 ---
 
@@ -399,15 +410,15 @@ Job story chưa có research vẫn chỉ là **giả thuyết tốt hơn**, chư
 
 | Assumption | Vì sao assumption này rủi ro? | Tôi đang có bằng chứng gì? | Cần validate bằng cách nào tiếp theo? |
 |---|---|---|---|
-| A1 | | | |
-| A2 | | | |
-| A3 | | | |
-| A4 | | | |
-| A5 | | | |
+| A1 | Sinh viên đã quen Google Scholar + ChatGPT, switching cost thấp nhưng habit cost cao | Chưa có — chỉ là inference từ experience cá nhân | Phỏng vấn 5-10 sinh viên đang làm thesis: họ mất bao lâu ở bước tìm paper? Có frustrated không? |
+| A2 | LLM có thể hallucinate citation hoặc miss paper quan trọng trong field hẹp | Chưa có — chưa test accuracy | Build prototype và test với 1 chủ đề quen thuộc, so sánh kết quả với expert review |
+| A3 | Nếu user chỉ dùng sau khi đã đọc xong thì value prop khác hoàn toàn và weaker | Chưa có | Track session timing trong prototype: user upload paper sau bao lâu kể từ khi bắt đầu research? |
+| A4 | Có thể user vẫn thích tự organize theo cách riêng — AI-generated structure có thể cảm giác "imposed" | Chưa có | A/B test: nhóm dùng cluster map vs. nhóm tự viết — so sánh quality và thời gian |
+| A5 | Đây là rủi ro credibility cao — nếu giảng viên phản đối AI-assisted review thì cả product vô nghĩa | Chưa có — phụ thuộc vào từng trường/giảng viên | Survey thái độ của sinh viên và giảng viên về AI trong academic writing tại các trường target |
 
 ### Assumption nguy hiểm nhất nếu tôi đang sai
 
-> _______________________________________________
+> A5 — nếu context học thuật (trường, giảng viên, ngành) không chấp nhận AI-assisted literature review, toàn bộ product hypothesis sẽ sập bất kể AI có tốt đến đâu. Đây là assumption cần validate sớm nhất, trước khi build thêm feature.
 
 ---
 
@@ -479,13 +490,13 @@ Job story chưa có research vẫn chỉ là **giả thuyết tốt hơn**, chư
 
 ## Checklist trước khi nộp
 
-- [ ] Tôi đã khoanh đúng 1 lát cắt cụ thể của dự án.
-- [ ] Tôi đã phân biệt được `job executor` với buyer / influencer.
-- [ ] `Core JTBD` của tôi không nhét solution vào câu.
-- [ ] Tôi đã viết đủ 3 `job stories`.
-- [ ] Tôi đã điền `JTBD lite map` và khoanh ra 2 bước đau nhất.
-- [ ] Tôi đã chỉ ra `AI leverage point` thay vì nhảy thẳng vào feature list.
-- [ ] Tôi đã ghi rõ `assumptions to validate`.
+- [x] Tôi đã khoanh đúng 1 lát cắt cụ thể của dự án.
+- [x] Tôi đã phân biệt được `job executor` với buyer / influencer.
+- [x] `Core JTBD` của tôi không nhét solution vào câu.
+- [x] Tôi đã viết đủ 3 `job stories`.
+- [x] Tôi đã điền `JTBD lite map` và khoanh ra 2 bước đau nhất.
+- [x] Tôi đã chỉ ra `AI leverage point` thay vì nhảy thẳng vào feature list.
+- [x] Tôi đã ghi rõ `assumptions to validate`.
 - [ ] Tôi đã sửa version cuối sau khi share trong bàn.
 
 ---
